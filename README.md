@@ -21,7 +21,7 @@ This project is a walk-through of a haunted house in which the user can interact
 
 ## View:
 
-Visit https://cryptic-encounters.herokuapp.com/ to start your ghost adventure!
+Visit https://cryptic-encounter.herokuapp.com/ to start your ghost adventure!
 
 ![Screenshot](./public/assets/images/cryptic_encounters_screenshot.png)
 
